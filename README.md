@@ -1,6 +1,7 @@
 # Dry Bean Variety Classification
 
-**Live app:** _<Streamlit Community Cloud URL>_
+**Live app:** https://dry-bean-classifier-2026ak05520.streamlit.app
+
 
 ## a. Problem statement
 
