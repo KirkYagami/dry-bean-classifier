@@ -1,0 +1,7 @@
+# Versions match the saved models; use Python 3.12.
+streamlit==1.66.1
+scikit-learn==1.9.1
+numpy==2.5.4
+pandas==3.1.0
+altair==6.3.0
+joblib==1.6.0
